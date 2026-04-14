@@ -1,5 +1,3 @@
-# dme-sql-analysis
-DME claims analysis using SQL
 # DME Claims Analysis Using SQL
 
 ## Project Overview
